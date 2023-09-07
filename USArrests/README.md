@@ -14,3 +14,5 @@ Tasks performed:
 * Looked at correlation 
 * Analyzed data with graphs by state
 * Summary
+
+![USArrests PDF](https://github.com/Sarah269/glowing-dollop/blob/main/USArrests/USArrests.pdf)
