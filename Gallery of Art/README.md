@@ -1,8 +1,8 @@
-### National Gallery of Art Artists
+### National Gallery of Art Web Scrape
 ##  Artists names beginning with letter A
 
-<p>Tasks Performed:</p>
-  - Read webpage
-  - Parse HTML
-  - Create dataframe
-  - Create CSV
+Tasks Performed:
+  * Read webpage
+  * Parse HTML
+  * Create dataframe
+  * Create CSV
