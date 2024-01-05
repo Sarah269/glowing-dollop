@@ -6,7 +6,7 @@
 
 </pre>Description:  Using SQL window functions, analyze historical manufacturing data to define the acceptable range for height measurements and identify any points in the process that fall outside of the range.</pre>
 
-Results:  57 items were flagged with Alert set to True because they did not pass tolerance.
+Findings:  57 items were flagged as falling outside of the acceptance range for height measurements. 
 
 <p>Project Instructions</p>
 
