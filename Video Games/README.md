@@ -4,9 +4,10 @@ Analyze reviews and sales to determine the golden age of video games
 
 Tool:  PostgreSQL
 
-<p>Project Description</p>
+<p>Project Description:
+Analyze video game critic and user scroes as well as sales data for the top 400 video games released since 1977.  Search for a golden age of video games by identifying release years that users and critics like best, and explore the business side of gaming by looking at game sales data.</p> <br>
 
-![project description](https://github.com/Sarah269/glowing-dollop/blob/main/Video%20Games/VideoGame_projectdesc.png)
+<p>Findings:  The best years for video games based on the data are 2008, 1998, and 2002.  It seems the older video games are preferred.</p>
 
 <p>1. Ten top selling video games</p>
 
