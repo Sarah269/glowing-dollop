@@ -4,6 +4,8 @@ Tools:  PostgreSQL
 
 Task:  Analyze wholesale orders' net revenue for the months of June-August.</p>
 
+<p>Findings:</p>
+
 Net revenue by product line  
 * Net revenue for the period from June to August exceeded $35,0000 for 2 of 6 product lines.
   *   Frame & body
