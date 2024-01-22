@@ -14,6 +14,8 @@ Results:
 
 <p>Clustering scatterplot for Spending and Income cluster</p>
 
+![Scatterplot](https://github.com/Sarah269/glowing-dollop/blob/main/CustomerSegment/clustering_bivariate.png)
+
 
 
 
