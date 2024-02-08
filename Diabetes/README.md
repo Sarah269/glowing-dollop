@@ -21,4 +21,9 @@ This model was run multiple times. The first time (RMSE: 53.48) it was run with 
 This model was run with optimized hyperparameters and the same selected features used in the third run of the OLS Regression model.  The RMSE (53.13) was a little lower than the first run of the OLS Regression model (53.48).
 
 ### Random Forest Regressor
-This model was run with optimized hyperparameters and the same selected features used in the third run of the OLS Regression model.  
+This model was run with optimized hyperparameters and the same selected features used in the third run of the OLS Regression model. The RMSE was 61.52.
+
+## Conclusion
+Ridge Regression had the lowest RMSE score out of the three models that were used. Although none of the models performed particularly well at forecasting values for this data, that would theoretically make the Ridge model the best model. An RMSE that is close to zero is ideal.
+
+
