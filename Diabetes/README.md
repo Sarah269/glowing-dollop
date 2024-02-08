@@ -2,6 +2,8 @@
 
 <p>This project performs linear regression on a sci-kit learn dataset called Diabetes.  This dataset has 10 features and 442 observations.  The target is a measure of the progress of the disease one year after baseline.</p>
 
+![Regression Analysis](https://github.com/Sarah269/glowing-dollop/blob/main/Diabetes/Diabetes_R.pdf)
+
 ## Exploratory Data Analysis
 ### Feature Correlation
 <p>s1 (total serum cholestrol) and s2 (low-density lipoproteins:ldl) have a very strong positive correlation (.90).  An increase in LDL correlates to an increase in total serum cholestrol.</p>  
@@ -15,7 +17,7 @@ Based on the boxplot, features s1, s2, s3, & s6 (blood sugar level) have several
 
 ## Models
 ### OLS Regression
-This model was run multiple times. The first time (RMSE: 53.48) it was run with all of the features. The second (RMSE: 55.17) and third time (55.53) the model was run with selected feature based on the probability results of the t-test. A t-test probability less than 0.05 indicates the feature has a relationship with the target. The feature with a t-test probability less than 0.05 were selected for the second and third runs. The F-statistic showing the abilty of the model to explain the target improved with each run however, the RMSE score remained high indicating the model was not doing a good job with predications.  
+This model was run multiple times. The first time (RMSE: 53.48) it was run with all of the features. The second (RMSE: 55.17) and third time (RMSE: 55.53) the model was run with features selected based on the probability results of the t-test. A t-test probability less than 0.05 indicates the feature has a relationship with the target. Features with a t-test probability less than 0.05 were selected for the second and third runs. The F-statistic shows the abilty of the model to explain the target. It improved with each run however, the RMSE score remained high indicating the model was not doing a good job with predications.  
 
 ### Ridge Regression
 This model was run with optimized hyperparameters and the same selected features used in the third run of the OLS Regression model.  The RMSE (53.13) was a little lower than the first run of the OLS Regression model (53.48).
