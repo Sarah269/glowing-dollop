@@ -11,7 +11,7 @@
 ### Feature Value Distribution
 Based on the distplot, the feature values appear to be normally distributed.
 
-Based on the boxplot, features s1, s2, s3, & s6 have several outliers above the 75% distribution mark.  Features bmi and s4 have a couple of outliers above the 75% distribution mark.
+Based on the boxplot, features s1, s2, s3, & s6 (blood sugar level) have several outliers above the 75% distribution mark.  Features bmi and s4 have a couple of outliers above the 75% distribution mark.
 
 ## Models
 ### OLS Regression
