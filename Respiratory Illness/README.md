@@ -2,6 +2,10 @@
 
 Build a model using the Decision Tree and Logistic Regression algorithms to predict respiratory illness
 
+Tools:
+* Python: Exploratory data analysis, data preparation, build model
+* Google Slides: Results
+  
 <b>Tasks:</b>
   *  Exploratory data analysis
   *  Data preparation
