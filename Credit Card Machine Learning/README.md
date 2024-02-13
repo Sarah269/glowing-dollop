@@ -6,6 +6,10 @@
 
 <br> Build and evaluate machine learning models for credit card default decisions</br>
 
+Tools:
+*   Python: Data Cleaning, Data Exploration, Build Models
+*   Google Slides: Findings
+
 Tasks Performed:
 * Exploratory Data Analysis
 * Data Visualization
@@ -30,5 +34,8 @@ Tasks Performed:
 * Save cleaned credit card file to csv
 
 
-
 ![Credit Card Machine Learning PDF](https://github.com/Sarah269/glowing-dollop/blob/main/Credit%20Card%20Machine%20Learning/CreditCardML_Final.pdf)
+
+Results/Findings:
+
+![CreditCardResults](https://github.com/Sarah269/glowing-dollop/blob/main/Credit%20Card%20Machine%20Learning/CreditCardDefault.png)
