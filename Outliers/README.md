@@ -13,6 +13,11 @@ Methods Explored:
 *  Interquantile Range (IQR)
 *  Z-score
 
+References:
+* statology.org
+* statisticsglobe.com
+* Datagy.io
+  
 <b>Sorting</b>
 
 ![image](https://github.com/Sarah269/glowing-dollop/assets/132937964/14d068c2-5500-41ee-906b-1b62130484fe)
