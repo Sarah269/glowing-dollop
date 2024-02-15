@@ -1,9 +1,9 @@
-# Outliers
+ # Outliers
 
 This project looks at four methods of identifying outliers using Python or SQL.
 
 Tools:
-*  OracleLive SQL
+*  Oracle LiveSQL
 *  Python
 *  Jupyter notebook
 
