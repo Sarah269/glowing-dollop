@@ -42,4 +42,4 @@ Increase North American sales by focusing on customers with a 2-5 mile commute.<
 
 Dashboard:
 
-
+![Dashboard](https://github.com/Sarah269/glowing-dollop/blob/main/Bike%20Sales/Bike%20Customers.png)
