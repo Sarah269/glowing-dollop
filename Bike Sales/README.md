@@ -23,7 +23,7 @@ Exploratory Data Analysis
 Data Analysis
 <p>Created pivot tables to look at income, age_bracket, commute distance, region, and owned_car focusing on the number of bikes purchased.</p>
 
-
+![Pivot](https://github.com/Sarah269/glowing-dollop/blob/main/Bike%20Sales/Bike%20Pivot%20Table.png)
 
 Results/Findings:
 * 55% of customers are between 22 and 44 years old.
