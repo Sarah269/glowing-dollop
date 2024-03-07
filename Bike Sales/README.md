@@ -1,6 +1,6 @@
 # Bike Sales
 
-This project aims to insights on which customers are purchasing bikes.
+This project aims to provide insights on which customers are purchasing bikes.
 
 Dataset:  AlextheAnalyst Bike Sales
 
