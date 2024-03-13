@@ -21,17 +21,17 @@
 
 <b>Data Analysis</b>
 
-![IndexMatch](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_IndexMatch.png)
+![Averageig](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_averageif.png)
 
 ![Pivot Table](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_Pivottable.png)
 
-![Averageig](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_averageif.png)
+![Sumifs](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_sumifs.png)
 
 ![Filter](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_filter.png)
 
-![Maxifs](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_maxifs.png)
+![IndexMatch](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_IndexMatch.png)
 
-![Sumifs](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_sumifs.png)
+![Maxifs](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_maxifs.png)
 
 ![Xlookup](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_xlookup.png)
 
