@@ -20,3 +20,5 @@
 * Records counts for selected columns by license class
 
 <b>Data Analysis</b>
+
+![IndexMatch](https://github.com/Sarah269/glowing-dollop/blob/main/NYC%20Taxi/Taxi_IndexMatch.png)
