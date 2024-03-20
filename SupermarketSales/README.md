@@ -25,6 +25,14 @@ This project examines January and February 2024 supermarket sales to determine p
 - Who are the top 5 customers for purchases, items purchases, and orders placed?
 
 ### Results/Findings
+- Sales increased 7.4% from January to February while orders and items purchased decreased, 6% and 8% respectively.
+- Sales peaked in the third full week of January and February.
+- Average total purchases in February was 14.86% higher than January.
+- 29.99 was the most popular items purchased by customers.  57 items were sold.
+- There were 9 customers in February with Total Purchases > $200, compared to January where there was only 1 customer.
 
+### Recommendations
+- Analyze customer purchasing behavior.
+- Offer discounts during the third week of the month.
 
 
