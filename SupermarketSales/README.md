@@ -11,7 +11,7 @@ This project examines January and February 2024 supermarket sales to determine p
 
 ### Tools
 - Excel Online
-- Functions/Features used: Pivot tables, text, weeknum, averageif, charts
+- Functions/Features used: Pivot tables, text, weeknum, averageif, charts. countifs
 
 ### Data Cleaning/Preparation
 - Renamed column names
