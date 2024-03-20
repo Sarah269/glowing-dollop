@@ -3,6 +3,9 @@
 ## Project Overview
 This project examines January and February 2024 supermarket sales to determine performance and discover any trends or insights.
 
+![Dashboard](https://github.com/Sarah269/glowing-dollop/blob/main/SupermarketSales/SupermarketDashboard.png)
+
+
 ### Data Source
 - Exceldemy supermarket sales sample dataset
 
