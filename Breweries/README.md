@@ -10,7 +10,7 @@ This project analyzes the open brewery database to gain insights on breweries in
   
 ### Tools
 - Python, Jupyter Notebook:  Extract, process, and analyze data
-- PowerBI: Dashboard
+- PowerBI: Dashboard. 
 
 ### Jupter Notebooks
 - [Public API data extraction](https://github.com/Sarah269/glowing-dollop/blob/main/Breweries/Brewery_API.pdf)
