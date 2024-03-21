@@ -7,14 +7,21 @@ This project analyzes the open brewery database to gain insights on breweries in
 
 ### Data Source
 - Open Brewery DB public API. https://www.openbrewerydb.org/
+  
 
 ### Tools
 - Python, Jupyter Notebook:  Extract, process, and analyze data
 - PowerBI: Dashboard
 
+### Jupter Notebooks
+- [Public API data extraction](https://github.com/Sarah269/glowing-dollop/blob/main/Breweries/Brewery_API.pdf)
+- [Data processing and analysis](https://github.com/Sarah269/glowing-dollop/blob/main/Breweries/Brewery.pdf)
+
 ### Data Extraction
 - Read data from public API using a loop to read multiple pages of data,
 - Write data to a JSON file
+  
+
 
 ### Data Cleaning/Preparation
 - Read JSON file and convert data to a dataframe
