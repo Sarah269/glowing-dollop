@@ -8,7 +8,6 @@ This project analyzes the open brewery database to gain insights on breweries in
 ### Data Source
 - Open Brewery DB public API. https://www.openbrewerydb.org/
   
-
 ### Tools
 - Python, Jupyter Notebook:  Extract, process, and analyze data
 - PowerBI: Dashboard
@@ -21,8 +20,6 @@ This project analyzes the open brewery database to gain insights on breweries in
 - Read data from public API using a loop to read multiple pages of data,
 - Write data to a JSON file
   
-
-
 ### Data Cleaning/Preparation
 - Read JSON file and convert data to a dataframe
 - Corrected misspelled state name
@@ -43,8 +40,19 @@ This project analyzes the open brewery database to gain insights on breweries in
 - number of unique values for each field
 
 
+### PowerBI
+- Removed columns: address_1, address_2, street, country, and phone 
+- Created two columns:  Postal5, Name27
 
-  
+### Results/Findings
+- There are 7089 breweries in the United States.
+- California has the most breweries, 794.
+- Portland is the city with the most breweries, 97.
+- The US postal codes with the largest concentration of breweries are in Boulder, CO; Asheville, NC; and Cleveland, OH.
+- Most common brewery name is Granite City Food & Brewery.
+- District of Columbia and Mississippi have the least number of breweries.
+- The west and midwest regions of the country have a high concentration of breweries.
+- 89% of breweries reported a website URL.
 
 
 
