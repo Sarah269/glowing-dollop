@@ -3,6 +3,8 @@
 ### Project Overview
 This project analyzes the open brewery database to gain insights on breweries in the United States.
 
+![Breweries](https://github.com/Sarah269/glowing-dollop/blob/main/Breweries/BreweryPowerBI.png)
+
 ### Data Source
 - Open Brewery DB public API. https://www.openbrewerydb.org/
 
