@@ -32,17 +32,18 @@ This project analyzes North Carolina school performance data to determine how we
 - Created three measures:  Number of Public schools, Number of Charter schools, Count of schools with achievement scores >= 85
   
 ### Results/Findings
- - After data cleaning there are 2407 schools, 2286 public & 121 charter
- - Average achievement score was 58 (grade: C)
- - Average EVAAS (Education Value-added assessment) score was 78 (grade: B)
- - Average SPG (School Performance Grade) was 62 (grade: C)
- - North Carolina school board of education has nine regions
- - Wake forest county has 166 schools while smaller counties hae 1-3 schools
- - Performance acrosss regions was uniform
- - All regions did well in making progress from the previous year
- - At small group of 111 schools had Achievement scores greater than 84 (grade: A), 4.61%
- - Overall there was no significant difference between the scores for public and charter schools.  Regions 3,6, & 8 charter schools did better with having achievement scores >= 85.
+ - After data cleaning there are 2407 schools, 2286 public & 121 charter.
+ - Average achievement score was 58 (grade: C).
+ - Average EVAAS (Education Value-added assessment) score was 78 (grade: B).
+ - Average SPG (School Performance Grade) was 62 (grade: C).
+ - North Carolina school board of education has nine regions.
+ - Wake forest county has 166 schools while smaller counties have 1-3 schools.
+ - Performance acrosss regions was uniform.
+ - All regions did well in making progress from the previous year.
+ - A small group of 111 schools had achievement scores greater than 84 (grade: A), 4.61%
+ - Overall there was no significant difference between the scores for public and charter schools.
+ - Regions 3,6, & 8 charter schools did better with having achievement scores >= 85.
 
 ### Recommendations
-- Review teaching methods to reflect the learning styles of today's students.  Poor end-of-grade scored seems to indicate the students are not understanding the material.
+- Revise teaching methods to reflect the learning styles of today's students.  Poor end-of-grade scores seems to indicate the students are not understanding the material.
   
