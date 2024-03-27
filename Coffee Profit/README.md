@@ -28,6 +28,10 @@ _ Excel Online.
 - What are the sales over time? orders? profit?
 - What is the profit margin?
 
+### Data Analysis
+
+![Histogram](https://github.com/Sarah269/glowing-dollop/blob/main/Coffee%20Profit/CoffeeProfit_SalesHisto.png)
+
 ### Results/Findings
 - The profit earned for the 2019 to 2022 period was $4520.
 - The profit margin for the 2019-2022 period was 10.02%.  Per brex.com, 10% is a healthy profit margin for a coffee shop.
