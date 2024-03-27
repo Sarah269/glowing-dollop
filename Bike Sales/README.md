@@ -15,6 +15,7 @@ AlextheAnalyst Excel Project
 
 ### Tools
 -  Excel Online
+  -  Excel Online does not have all of the features of Excel.
 
 ### Data Preparation
 * Martial Status:  changed M to Married, S to Single
