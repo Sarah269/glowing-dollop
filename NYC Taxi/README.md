@@ -8,6 +8,7 @@
 
 ### Tools
 - Excel Online
+ - Excel Online does not have all of the features of Excel.
  - Functions Used:</b> Pivot table, averageif, averageifs, sumifs, maxifs, filter, xlookup, large, min, index/match
 
 ### Data Cleaning/Preparation
