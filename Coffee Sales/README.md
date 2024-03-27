@@ -30,6 +30,10 @@ Mo Chen Interactive Dashboard project
 - What are the sales for each country?
 - What is the average unit price per product size?
 
+## Data Analysis
+
+![Pivot Table](https://github.com/Sarah269/glowing-dollop/blob/main/Coffee%20Sales/CoffeeSales1_AvgUnitPrice.png)
+
 ### Results/Findings
 - Average order values decrease each year, from $47 to $43.
 - Average sales per customer decrease each year, $50 to $46.
@@ -38,10 +42,13 @@ Mo Chen Interactive Dashboard project
 - Excelsa coffee leads in sales while Arabica has the most orders.
 - Robusta lags in sales despite having orders and quantity similar to the other coffee types.
 - The average unit price per product size has decreased for all sizes, with the exception of 0.2kg. 2.5kg average unit price has decreased by $1.20.
+- The product sales exhibit spikes during the year, i.e., the first quarter, June, and between September and December. 
+- In prior years, sales from January to February increased.  In 2022, sales for Robusta and Liberica plummeted from $1200 to $400.  Sales for Arabica and Excelsa were flat.
 
 ### Recommendations
 - Review the pricing for Robusta.
 - Review unit price for each coffee, roast type, and size combination.
+- Investigate sales activity for 2022 to determine the cause for the reduction in sales.
 
 ### Limitations
 - The data for the year 2022 only has 8 months.
