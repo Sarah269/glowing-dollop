@@ -10,6 +10,7 @@ This project analyzes North Carolina school performance data to determine how we
 
 ### Tools
 - Excel:  Data cleaning, analysis, and visualization
+  - Excel Online does not have all of the features of Excel.
 - Power BI: Dashboard
 
 ### Data Cleaning/Preparation
