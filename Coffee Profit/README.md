@@ -3,7 +3,7 @@
 ### Project Overview
 This project analyzes data on coffee orders, customers, and products to gain insights on profit.
 
-
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Coffee%20Profit/CoffeeProfit_Dashboard.png"/>
 
 ### Data Source
 - Mo Chen Coffee Orders dataset: https://github.com/mochen862/excel-project-coffee-sales. This workbook has three sheets: Orders, Customers, and Products.
