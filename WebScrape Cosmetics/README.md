@@ -11,4 +11,4 @@ Tasks Performed:
 * Data Cleaning
 * Data Visualization
 
-![Web Scraping Cosmetics PDF](https://github.com/Sarah269/glowing-dollop/blob/main/WebScrape%20Cosmetics/WebScrape_Cosmetics.pdf)
+[Web Scraping Cosmetics PDF](https://github.com/Sarah269/glowing-dollop/blob/main/WebScrape%20Cosmetics/WebScrape_Cosmetics.pdf)
