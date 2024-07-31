@@ -1,6 +1,6 @@
 ### Datacamp Project:  Analyzing Unicorn Companies
 
-Tool:  PostgreSQL
+Tool:  PostgreSQL, Power BI
 
 Determine the top three industries that had the most unicorn companies for the period from 2019 to 2021.
 
