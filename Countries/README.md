@@ -1,10 +1,44 @@
 ## Countries
 
 ## Project
-Data exploration project to gain insights on city and country data.
+Data exploration project to gain insights on city and country data.  
+
+## Tables
+*  Countries: 77 rows
+*  Cities: 238 rows
+*  Country Languages: 458 rows
 
 ## Tools
 SQLplayground, MYSQL 8.0
+
+## Findings
+Population
+* China and India are the most populous countries.
+
+Life Expectancy
+*  Japan has the highest life expectancy at 80.7.
+*  Zambia has the lowest life expectacny at 37.2.
+*  The average life expectancy is 66.
+
+Form of Government
+*  66 countries have some form of a republic as government.
+
+Population Density
+*  Hong Kong (6,308) and Singapore (5,771) are the most densely populated countries.  
+*  The average population density is 261.75.
+*  Australia and Canada are the least densely populated countries.
+
+GNP
+*  The average gnp is 347,946. The United States' gnp is 8,510,700.
+*  Only half of the most populous countries are in the top 10 for gnp.
+
+Language
+*  Arabic and Spanish are spoken in 14 countries, German in 12, Chinese in 10, and English in 9.
+
+Cities
+*  The most populous cities are in Asia.  Mumbai is the most populous city.
+
+
 
 ## Data Exploration
 
