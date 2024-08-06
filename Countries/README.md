@@ -92,4 +92,4 @@ Cities
 
 ### Query 13
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Countries/World%2014.png" height=400 />
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Countries/World%2013.png" height=400 />
