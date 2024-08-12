@@ -3,7 +3,8 @@
 ## Project
 This project creates a dashboard displaying key performance metrics.
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShareDashboard.png" height="400" />
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShareDashboard.png" height="400"  width="49%" />
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShareRecommendation.png" height="400" width="49%" />
 
 ## Problem
 Create a dashboard that displays our key performance metrics.  Provide a recommendation on raising prices next year.
@@ -19,7 +20,7 @@ Requirements:
 https://github.com/Gaelim/YT_bike_share
 
 ## Tools
-SQLite , Power BI
+SQLite , Power BI, PowerPoint
 
 ## Reference
 [Absent Data End-to-End Data Analysis Project 2024](https://www.youtube.com/watch?v=jdGJWloo-OU)
