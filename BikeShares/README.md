@@ -27,8 +27,13 @@ SQLite , Power BI
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/Database.png" height=250 />
 
-  
 *  Develop SQL queries to transform the data for analysis
+
+<img src = "https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShare%20Q1.png" width=32% />
+<img src = "https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShare%20Q2.png" width=32% />
+<img src = "https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShare%20Q3.png" width = 32% />
+
+
 *  Export the data to a csv file
 *  Build a Dashboard
    *  corrected calculation for profit
