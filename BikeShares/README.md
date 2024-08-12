@@ -30,6 +30,7 @@ SQLite , Power BI
 *  Develop SQL queries to transform the data for analysis
 *  Export the data to a csv file
 *  Build a Dashboard
+   *  corrected calculation for profit
 *  Recommendations
 
   
