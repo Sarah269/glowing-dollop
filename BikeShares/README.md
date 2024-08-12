@@ -3,8 +3,10 @@
 ## Project
 This project creates a dashboard displaying key performance metrics.
 
+<p float="left">
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShareDashboard.png" height="400"  width="49%" />
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShareRecommendation.png" height="400" width="49%" />
+</p>
 
 ## Problem
 Create a dashboard that displays our key performance metrics.  Provide a recommendation on raising prices next year.
