@@ -23,10 +23,11 @@ SQLite , Power BI
 [Absent Data End-to-End Data Analysis Project 2024](https://www.youtube.com/watch?v=jdGJWloo-OU)
 
 ##  Tasks
-*  Build a SQL database 
-    *  2021 data
-    *  2022 data
-    *  cost data
+*  Build a SQL database : 2021 data, 2022 data, cost data
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/Database.png" height=250 />
+
+  
 *  Develop SQL queries to transform the data for analysis
 *  Export the data to a csv file
 *  Build a Dashboard
