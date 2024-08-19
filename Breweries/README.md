@@ -1,7 +1,9 @@
 # Breweries
 
 ### Project Overview
-This project analyzes the open brewery database to gain insights on breweries in the United States.
+This project analyzes the open brewery database to gain insights on breweries in the United States.  
+
+[Find a Brewery App](https://github.com/Sarah269/probable-octo-robot/tree/main)
 
 ![Breweries](https://github.com/Sarah269/glowing-dollop/blob/main/Breweries/BreweryPowerBI.png)
 
