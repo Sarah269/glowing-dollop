@@ -69,3 +69,5 @@ Examine the reasons behind the unusually high inventory-to-sales ratios observed
 Investigate the high return rates for products across many subsidiaries. Specifically, analyze the products with the highest return rates in each region, noting that footwear is the top-returned product in seven out of ten regions. Assess whether there are any quality issues contributing to these high return rates and define an acceptable return percentage for each product category.
 </p>
 
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Highest%20Return.png" height="400" />
+
