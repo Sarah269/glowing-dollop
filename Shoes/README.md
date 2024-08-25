@@ -11,13 +11,16 @@ This project analyzes data to gain insights on returns and inventory.
 ## Tools
 SAS Studio release 3.8.1
 
+## Data
+*  sashelp.shoes dataset
+
 ## Proc
 *  contents, print, means, sgplot, univariate, corr, freq, format, sql, datasets, boxplot
 
 ## Macro
 *  hbarplot - horizontal bar plot
 <p float="left">
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Macro.png" width="49%" />
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Macro.png" width="49%" height="325" />
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Macro%20Plot.png" width="49%" />
 </p>
 
