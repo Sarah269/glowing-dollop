@@ -26,6 +26,23 @@ SAS Studio release 3.8.1
 
 ## Tasks Performed
 *  Exploratory data analysis
-*  Data visualization
-
+<p float="left">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Histogram%20NetSales.png" width="49%" />
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Box%20Plot%20Sales.png" width="49%" />
+</p>
   
+*  Data visualization
+<p float="left">
+  <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Sales%20by%20Product.png" width="49%" />
+  <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Sales%20by%20Region.png"  width="49%" />
+</p>
+
+## [SAS Code](https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Shoes.sas)
+*  Click the link above to view the SAS code
+
+## [SAS Results](https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/shoes.pdf)
+*  Click the link above to view SAS output
+
+## Findings
+Middle East region has the highest sales.
+The product with the highest sales is Men's casual.
