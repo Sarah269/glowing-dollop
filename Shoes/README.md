@@ -26,7 +26,10 @@ SAS Studio release 3.8.1
 
 ## Tasks Performed
 *  Data Preparation
-    -  Added new features:  pct_returned, net_sales, inventory_to_sales
+    -  Added new features
+        - percent returned (pct_returned): returns/sales
+        - net sales (net_sales): sales - returns
+        - inventory to sales ratio (inventory_to_sales): inventory / sales
   
 *  Exploratory data analysis
 <p float="left">
@@ -50,6 +53,8 @@ SAS Studio release 3.8.1
 -  The region with the sales is the Middle East ($5,631,779).
 -  The product with the highest sales is Men's casual ($7,933,707).
 -  The subsidiary with the highest sales is Vancouver ($3,227,768).
+-  South America is the region with the highest sales return percentage (4.22%).
+-  Sandals is the product with the highest sales return percentage (4.40%).
 -  Average sales: $85,700
 -  Average returns: $2,967
 -  Average net sales: $82,732
@@ -63,6 +68,8 @@ SAS Studio release 3.8.1
 <p>
 Examine the reasons behind the unusually high inventory-to-sales ratios observed in certain subsidiaries. Determine what the target inventory-to-sales ratio should be and assess how current ratios compare to this target.
 </p>
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Highest%20Inventory%20to%20Sales%20Ratio.png" height="400" />
 
 <b>Returns</b>
 <p>
