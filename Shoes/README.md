@@ -25,6 +25,9 @@ SAS Studio release 3.8.1
 </p>
 
 ## Tasks Performed
+*  Data Preparation
+    -  Added new features:  pct_returned, net_sales, inventory_to_sales
+  
 *  Exploratory data analysis
 <p float="left">
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Shoes/Histogram%20NetSales.png" width="49%" />
@@ -44,5 +47,25 @@ SAS Studio release 3.8.1
 *  Click the link above to view SAS output
 
 ## Findings
-Middle East region has the highest sales.
-The product with the highest sales is Men's casual.
+-  The region with the sales is the Middle East ($5,631,779).
+-  The product with the highest sales is Men's casual ($7,933,707).
+-  The subsidiary with the highest sales is Vancouver ($3,227,768).
+-  Average sales: $85,700
+-  Average returns: $2,967
+-  Average net sales: $82,732
+-  Average return percentage: 3.9%
+-  Average inventory_to_sales ratio: 4.3
+
+## Recommendation
+<b>Further Investigation Needed: Returns and Inventory</b>
+
+<b></b>Inventory<b>
+<p>
+Examine the reasons behind the unusually high inventory-to-sales ratios observed in certain subsidiaries. Determine what the target inventory-to-sales ratio should be and assess how current ratios compare to this target.
+</p>
+
+<b>Returns</b>
+<p>
+Investigate the high return rates for products across many subsidiaries. Specifically, analyze the products with the highest return rates in each region, noting that footwear is the top-returned product in seven out of ten regions. Assess whether there are any quality issues contributing to these high return rates and define an acceptable return percentage for each product category.
+</p>
+
