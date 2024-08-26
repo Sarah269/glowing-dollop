@@ -61,8 +61,7 @@ SAS Studio release 3.8.1
 -  Average return percentage: 3.9%
 -  Average inventory_to_sales ratio: 4.3
 
-## Recommendation
-<b>Further Investigation Needed: Returns and Inventory</b>
+## Further Investigation Needed: Returns and Inventory
 
 <b></b>Inventory<b>
 <p>
