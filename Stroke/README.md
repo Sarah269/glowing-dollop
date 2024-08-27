@@ -26,6 +26,31 @@ Python, Pandas, sci-kit learn, PowerPoint
 *  Limitations
 
 ## Imbalance
-The target has 246 values for stroke and 4860 values for no stroke.
+The target had 246 values for stroke and 4860 values for no stroke.
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Data%20Target%20Values.png" height="400" />
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Data%20Target%20Values.png" width="400" />
+
+## Metrics
+The model had 97% accuracy.
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Confusion%20Matrix.png" height="400" />
+
+## Feature Importance
+Age, BMI, and average glucose level were identified as the top features.
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Important%20Features.png" height="400" />
+
+## Findings
+- Age range for stroke patients is 40- 80
+-  Average glucose level for stroke patients is above 100 with more activity above 150
+- BMI for stroke patients is 20- 60
+-  Best parameters for SVM model: {‘C’: 100, ‘gamma’: 1}
+-  The SVM model accuracy is 97%.
+-  Based on model results the most important features are age, bmi, and average glucose. The  secondary features are gender, residence, work private, and never smoked.
+
+ ## Limitations
+ There is a great imbalance between the number of stroke and non-stroke target values. The data
+ contained 249 observations for stroke and 4860 for non-stroke. Imbalance over sampling was used
+ to achieve equal number of stroke and non-stroke target values.
+ 
+
