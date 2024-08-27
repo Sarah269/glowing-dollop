@@ -28,3 +28,4 @@ Python, Pandas, sci-kit learn, PowerPoint
 ## Imbalance
 The target has 246 values for stroke and 4860 values for no stroke.
 
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Data%20Target%20Values.png" height="400" />
