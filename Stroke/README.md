@@ -1,7 +1,7 @@
 # Stroke Classification Machine Learning
 
 ## Project 
-This project builds a machine learning classification model to predict whether a patient is likely to get a stroke based on parameters like gender, age, glucose level, body mass, hypertension, and smoking..  This datset has 5110 rows and 12 columns.
+This project builds a machine learning classification model to predict whether a patient is likely to get a stroke based on parameters like gender, age, glucose level, body mass, hypertension, and smoking. This datset has 5110 rows and 12 columns.
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Slide.png" height="400" />
 
