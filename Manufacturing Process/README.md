@@ -7,6 +7,10 @@ Using SQL window functions, analyze historical manufacturing data to define the 
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/Evaluate%20Manufacturing%20Process%20Dashboard.png" width=400 />
 
+- 14% of parts fell outside acceptable control limits
+- 63% of operators exhibited above-average fail rates
+
+
 ## Tools
 PostgreSQL, Power BI (created measures using DAX)
 
