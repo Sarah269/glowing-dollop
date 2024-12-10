@@ -8,6 +8,13 @@ This project creates a dashboard displaying key performance metrics.
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/BikeShares/BikeShareRecommendation.png" height="400" width="49%" />
 </p>
 
+# Findings
+- Profit marin: 69%
+- 65% increase in sales despite a 25% price hike
+- Peak ridership times are 8-9 AM and 5-7 PM on weekdays, and 12-5 PM on weekends
+- Peak ridership is May to October
+- 81% of riders are registered
+
 ## Problem
 Create a dashboard that displays our key performance metrics.  Provide a recommendation on raising prices next year.
 
