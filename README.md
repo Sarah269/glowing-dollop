@@ -12,12 +12,17 @@
 - Motorcycle Parts Sales (PostgreSQL)
 - Video Game Reviews (PostgreSQL)
 
-
-
 ## Python
-- Breweries
+- Breweries (Public API, Python, Power BI)
 - National Gallery of Art (Python, BeautifulSoup, Pandas)
 - Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)
+- USArrests (Python, Pandas, Matplotlib, Seaborn)
+- Stroke Machine Learning Classification (Python, Pandas, Sci-kit learn, PowerPoint)
+- Customer Market Segment Clustering (Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Tableau)
+- Credit Card Machine Learning Classifcation (Python, Pandas, Scikit-learn, Matplotlib, Pickle)
+- Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)
+- Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)
+  
 ## Excel
 - Bike Shares
 - Coffee Profit
