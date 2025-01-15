@@ -1,8 +1,8 @@
 # Credit Card Machine Learning 
 
 ## Data Source
-*   UC Irvine Machine Learning Repository
-   *   Default of credit card clients. 24 features. 30K instances.
+*   [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
+   *   Default of credit card clients. 23 features. 30K instances.
 *   Customer default payments in Taiwan.
 
 ## Overview
