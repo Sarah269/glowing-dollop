@@ -1,16 +1,21 @@
 # Credit Card Machine Learning 
 
-<p>Data Source: UC Irvine Machine Learning Repository</p>
-<p>Default of credit card clients. 24 features. 30K instances.</p>
-<p>Customer default payments in Taiwan.</p>
+## Data Source
+*   UC Irvine Machine Learning Repository
+   *   Default of credit card clients. 24 features. 30K instances.
+*   Customer default payments in Taiwan.
 
-<br> Build and evaluate machine learning models for credit card default decisions</br>
+## Overview
+*  Build and evaluate machine learning models for credit card default decisions
 
-Tools:
+## Credit Card Default App
+https://github.com/Sarah269/Turbo-guacamole/tree/main
+
+## Tools:
 *   Python: Data Cleaning, Data Exploration, Build Models
 *   Google Slides: Findings
 
-Tasks Performed:
+## Tasks Performed:
 * Exploratory Data Analysis
 * Data Visualization
 * Data Cleaning
@@ -33,9 +38,9 @@ Tasks Performed:
 * Predictions with loaded model
 * Save cleaned credit card file to csv
 
-
+## Machine Learning PDF
 ![Credit Card Machine Learning PDF](https://github.com/Sarah269/glowing-dollop/blob/main/Credit%20Card%20Machine%20Learning/CreditCardML_Final.pdf)
 
-Results/Findings:
+## Results/Findings:
 
 ![CreditCardResults](https://github.com/Sarah269/glowing-dollop/blob/main/Credit%20Card%20Machine%20Learning/CreditCardDefault.png)
