@@ -6,11 +6,12 @@
 - Bike Shares (SQLite, PowerBI, PowerPoint)
 - US COVID-19 (Snowflake, SQL, Tableau)
 - Orders (Snowflake, SQL)
-- Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)
+- [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
 - Unicorn Companies (PostgresSQL, Power BI)
 - International Debt Statistics (PostgresSQL)
 - Motorcycle Parts Sales (PostgreSQL)
 - Video Game Reviews (PostgreSQL)
+
 
 ## Python
 - Breweries (Public API, Python, Power BI)
