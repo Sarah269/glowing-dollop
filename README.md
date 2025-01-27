@@ -4,7 +4,7 @@
 
 ## SQL
 - Bike Shares (SQLite, PowerBI, PowerPoint)
-- US COVID-19 (Snowflake, SQL, Tableau)
+- [US COVID-19 (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
 - Orders (Snowflake, SQL)
 - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
 - Unicorn Companies (PostgresSQL, Power BI)
@@ -30,6 +30,7 @@
 - Coffee Sales
 - NC School Performance
 - NYC Taxi
+- Supermarket Sales
 
 
 
