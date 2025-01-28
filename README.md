@@ -35,6 +35,8 @@
 
 ## SAS
 - [TN Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
+- Shoes 
+- [Cars](https://github.com/Sarah269/Data-Exploration-Cars)
 
 
 
