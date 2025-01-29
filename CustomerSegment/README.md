@@ -4,10 +4,15 @@
 - Understand target customers so that Marketing team can plan a strategy
 - Identify the most important shopping groups based on income, age, and the mall shopping score.
 
+ <img src="https://github.com/Sarah269/glowing-dollop/blob/main/CustomerSegment/CustomerSegment.png" height=350> 
+
 [Customer Segment Python PDF](https://github.com/Sarah269/glowing-dollop/blob/main/CustomerSegment/CustSeg.pdf)
 
 ## Reference
 - [Absent Data Python Customer Segmentation and Clustering Project](https://www.youtube.com/watch?v=iwUli5gIcU0)
+
+## Tools
+- Python, SciKit-learn, Tableau
 
 ## Tasks
 *  Import libraries</li>
