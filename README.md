@@ -3,7 +3,7 @@
 ## This is a repository for data projects.
 
 ## SQL
-- Bike Shares (SQLite, PowerBI, PowerPoint)
+- [Bike Shares (SQLite, PowerBI, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/BikeShares)
 - [US COVID-19 (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
 - [Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
 - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
@@ -14,15 +14,15 @@
 
 
 ## Python
-- Breweries (Public API, Python, Power BI)
-- National Gallery of Art (Python, BeautifulSoup, Pandas)
-- Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)
-- USArrests (Python, Pandas, Matplotlib, Seaborn)
-- Stroke Machine Learning Classification (Python, Pandas, Sci-kit learn, PowerPoint)
-- Customer Market Segment Clustering (Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Tableau)
-- Credit Card Machine Learning Classifcation (Python, Pandas, Scikit-learn, Matplotlib, Pickle)
-- Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)
-- Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)
+- [Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
+- [National Gallery of Art (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
+- [Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
+- [USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
+- [Stroke Machine Learning Classification (Python, Pandas, Sci-kit learn, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/Stroke)
+- [Customer Market Segment Clustering (Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Tableau)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
+- [Credit Card Machine Learning Classifcation (Python, Pandas, Scikit-learn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
+- [Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
+- [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
   
 ## Excel
 - Bike Shares
