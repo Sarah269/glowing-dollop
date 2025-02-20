@@ -15,7 +15,7 @@ Train machine learning classifiation model to detect fraud transactions
 https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
 ## Jupyter Notebook
-[Classification Model Notebook](
+[Classification Model Notebook](https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/OnlinePymtFraud.pdf)
 
 
 ## Tasks Performed
@@ -34,4 +34,6 @@ https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 - Handled the imbalance by using RandomUnderSampling to reduce the No Fraud rows.
 - No Fraud rows were reduced to 20532 rows.
 - Used hyperparameter tuning to determine the best parameters for the Decision Tree model
-- The Decision Tree model achieved 97% accuracy for detecting Fraud
+- The Decision Tree model achieved 97% accuracy for detecting Fraud transactions.
+- Without addressing imbalance and hyperparameter tuning, the model achieved 86% accuracy for detecting Fraud transactions.
+  
