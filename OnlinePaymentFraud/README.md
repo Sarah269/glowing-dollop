@@ -6,6 +6,9 @@ Train machine learning classifiation model to detect fraud transactions
 ## Tools
 - Python, Pandas, Sci-kit Learn
 
+## Data
+https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
+
 ## Tasks Performed
 - Load dataset
 - Data preparation
