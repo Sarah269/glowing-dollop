@@ -30,10 +30,12 @@ https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 - Predictions
 
 ## Results
-- The online payment data had an imbalance of 6 million rows (No Fraud) to 8213 rows (Fraud)
+- The online payment data had an imbalance of 6 million rows (Not Fraud) to 8213 rows (Fraud)
 - Handled the imbalance by using RandomUnderSampling to reduce the No Fraud rows.
-- No Fraud rows were reduced to 20532 rows.
+- Not Fraud rows were reduced to 20532 rows.
 - Used hyperparameter tuning to determine the best parameters for the Decision Tree model
 - The Decision Tree model achieved 97% accuracy for detecting Fraud transactions.
 - Without addressing imbalance and hyperparameter tuning, the model achieved 86% accuracy for detecting Fraud transactions.
   
+## Limitations
+- The dataset only contains fraud transactions for the CASH_OUT and TRANSFER transaction types. Therefore, the model is not trained for fraud transactions in the CASH_IN, DEBIT, PAYMENT transaction types.
