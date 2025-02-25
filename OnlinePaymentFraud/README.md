@@ -1,7 +1,7 @@
 # Online Payment Fraud
 
 ## Project
-Train machine learning classifiation model to detect fraud transactions
+Train machine learning classifiation model to classify fraudulent transactions
 
 <p float=left>
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/Accuracy.png" width="49%">
