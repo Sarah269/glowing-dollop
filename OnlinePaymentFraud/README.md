@@ -1,7 +1,7 @@
-# Online Payment Fraud
+# Online Payment Fraud Machine Learning Classification
 
 ## Project
-Train machine learning classifiation model to classify fraudulent transactions
+Train machine learning model to classify fraudulent transactions
 
 <p float=left>
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/Accuracy.png" width="49%">
@@ -13,6 +13,11 @@ Train machine learning classifiation model to classify fraudulent transactions
 
 ## Streamlit App
 [Online Payment Fraud ML App](https://github.com/Sarah269/urban-broccoli-opf/tree/main)
+
+<p float=left>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/opf_1.png" width="49%">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/opf_3.png" width="49%">
+</p>
 
 ## Data
 https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
@@ -31,14 +36,16 @@ https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 - Hyperparameter tuning
 - Model
 - Predictions
+- Saved Model
 
 ## Results
 - The online payment data had an imbalance of 6 million rows (Not Fraud) to 8213 rows (Fraud)
-- Handled the imbalance by using RandomUnderSampling to reduce the No Fraud rows.
-- Not Fraud rows were reduced to 20532 rows.
+- Cash Out and Transfer were the only transactions with fraud transactions.  Cash In, Debit, and Payment did not have any fraud transactions.
+- Handled the imbalance by using RandomUnderSampling to reduce the Not Fraud rows.
+- Trained model using 82130 Not Fraud rows and 8213 Fraud rows.  90,343 total rows.
 - Used hyperparameter tuning to determine the best parameters for the Decision Tree model
-- The Decision Tree model achieved 97% accuracy for detecting Fraud transactions.
+- The Decision Tree model achieved 96% accuracy for detecting Fraud for Cash Out and Transfer transactions.
 - Without addressing imbalance and hyperparameter tuning, the model achieved 86% accuracy for detecting Fraud transactions.
   
 ## Limitations
-- The dataset only contains fraud transactions for the CASH_OUT and TRANSFER transaction types. Therefore, the model is not trained for fraud transactions in the CASH_IN, DEBIT, PAYMENT transaction types.
+- The dataset only contains fraud transactions for the CASH_OUT and TRANSFER transaction types. 
