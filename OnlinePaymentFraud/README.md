@@ -1,7 +1,7 @@
 # Online Payment Fraud Machine Learning Classification
 
 ## Project
-Train machine learning model to classify fraudulent transactions
+Develop and train a DecisionTreeClassifier model to detect fraudulent online payment transactions.
 
 <p float=left>
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/Accuracy.png" width="49%">
