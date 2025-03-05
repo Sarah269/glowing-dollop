@@ -7,6 +7,9 @@ Build a model using the Decision Tree and Logistic Regression algorithms to pred
 ## Web App
 [Respiratory Illness Web Application](https://sarah269-amazinglavender-main-rmjytj.streamlit.app/)
 
+## Data
+- pydataset Respiratory
+  
 ## Tools
 * Python: Exploratory data analysis, data preparation, build model
 * Google Slides: Results
