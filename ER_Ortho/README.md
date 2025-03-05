@@ -11,6 +11,9 @@ DataFrenchy. Creating a Healthcare Analytics Dashboard in Excel
 ## Data
 https://github.com/chrisfrenchjr/SQLQueries/blob/main/Orthopedic%20Dashboard.xlsx
 
+## Tools
+- Excel (Pivot tables, charts)
+  
 ## Results
 - The average patient wait was 36-minute.
 - Despite a 42% drop in patients, wait times decreased by only 5%. 
