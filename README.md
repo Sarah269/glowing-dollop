@@ -8,10 +8,10 @@
 - [Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
 - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
 - [Manufacturing Process](https://github.com/Sarah269/glowing-dollop/tree/main/Manufacturing%20Process)
-- Unicorn Companies (PostgresSQL, Power BI)
-- International Debt Statistics (PostgresSQL)
-- Motorcycle Parts Sales (PostgreSQL)
-- Video Game Reviews (PostgreSQL)
+- [Unicorn Companies (PostgresSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
+- [International Debt Statistics (PostgresSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
+- [Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
+- [Video Game Reviews (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
 
 
 ## Python
@@ -26,13 +26,12 @@
 - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
   
 ## Excel
-- Bike Sales
-- Coffee Profit
-- Coffee Sales
+- [Bike Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
+- [Coffee Profit](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Profit)
+- [Coffee Sales](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Sales)
 - NC School Performance
 - NYC Taxi
 - Supermarket Sales
-
 
 ## SAS
 - [TN Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
