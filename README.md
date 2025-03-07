@@ -7,7 +7,7 @@
 - [US COVID-19 (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
 - [Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
 - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
-- [Manufacturing Process](https://github.com/Sarah269/glowing-dollop/tree/main/Manufacturing%20Process)
+- [Manufacturing Process (PostgresSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Manufacturing%20Process)
 - [Unicorn Companies (PostgresSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
 - [International Debt Statistics (PostgresSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
 - [Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
