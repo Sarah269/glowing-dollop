@@ -25,7 +25,7 @@
 - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
   
 ## Excel
-- Bike Shares
+- Bike Sales
 - Coffee Profit
 - Coffee Sales
 - NC School Performance
@@ -35,7 +35,7 @@
 
 ## SAS
 - [TN Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
-- Shoes 
+- [Shoes](https://github.com/Sarah269/glowing-dollop/tree/main/Shoes) 
 - [Cars](https://github.com/Sarah269/Data-Exploration-Cars)
 
 
