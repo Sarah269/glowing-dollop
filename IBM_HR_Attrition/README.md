@@ -8,6 +8,11 @@ Develop and train a RandomForestClassifier model to detect employees that are mo
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/IBM_HR_Attrition/HR_FeatureImportance.png" width="49%">
 </p>
 
+## IBM HR ML Streamlit App
+[IBM HR ML App](https://github.com/Sarah269/sturdy-broccoli-attrition)
+
+
+
 ## Tools
 - Python, Pandas, Scikit-learn, Colab
 
