@@ -5,7 +5,7 @@ Develop and train a DecisionTreeClassifier model to detect fraudulent online pay
 
 <p float=left>
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/Accuracy.png" width="49%">
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/Predictions.png" width="49%">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/OnlinePaymentFraud/NumberTrans.png" width="49%" height=300>
 </p>
 
 ## Tools
