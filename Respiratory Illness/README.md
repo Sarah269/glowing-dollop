@@ -5,7 +5,7 @@ Build a model using the Decision Tree and Logistic Regression algorithms to pred
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Respiratory%20Illness/RespiratoryIllness.png" height="400" />
 
 ## Web App
-[Respiratory Illness Web Application](https://sarah269-amazinglavender-main-rmjytj.streamlit.app/)
+[Respiratory Illness Web Application](https://github.com/Sarah269/AmazingLavender)
 
 ## Data
 - pydataset Respiratory
