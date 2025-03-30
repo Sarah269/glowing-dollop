@@ -1,6 +1,6 @@
 # Respiratory Illness Machine Learning Classification
 
-Build a model using the Decision Tree and Logistic Regression algorithms to predict respiratory illness
+Build a model using the Decision Tree and Logistic Regression algorithms to predict who may be affected by respiratory illness.
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Respiratory%20Illness/RespiratoryIllness.png" height="400" />
 
