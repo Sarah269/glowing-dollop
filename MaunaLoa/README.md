@@ -8,6 +8,10 @@ Develop a model to predict the temperature in Mauna Loa, HI.
 ## Reference
 ARIMA Model in Python Time Series Forecasting #6. Nachiketa Hebbar
 
+## Data Source
+[MaunaLoa Daily Temps Kaggle](https://www.kaggle.com/datasets/akritiupadhyayks/maunaloadailytemps-dataset)
+
+
 ## Tools
 - Python, Pandas, ARIMA
 
