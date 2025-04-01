@@ -3,7 +3,10 @@
 ## Project
 Develop a model to predict the temperature in Mauna Loa, HI.
 
-
+<p float=left>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/MaunaLoa/MaunaLoa_TestPredictions.png" width="49%">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/MaunaLoa/MaunaLoa_Forecast.png" width="49%">
+</p>
 
 ## Reference
 ARIMA Model in Python Time Series Forecasting #6. Nachiketa Hebbar
@@ -14,6 +17,9 @@ ARIMA Model in Python Time Series Forecasting #6. Nachiketa Hebbar
 
 ## Tools
 - Python, Pandas, ARIMA
+
+## Jupyter Notebook PDF
+[Manua Loa Daily Temps PDF](https://github.com/Sarah269/glowing-dollop/blob/main/MaunaLoa/MaunaLoa.pdf)
 
 ## Tasks Performed
 - Load libraries
