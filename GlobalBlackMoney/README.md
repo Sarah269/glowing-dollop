@@ -1,14 +1,14 @@
 # Global Black Money Transactions
 
 ## Project
-Analyze global money transactions for the period 2013-01-01 to 2014-02-01 to gain insights on the characteristics of money laundering transactions.
+Analyze global money transactions for the period January 2013 to February 2014 to gain insights on the characteristics of money laundering transactions.
 
 ## Data Source
 - [Kaggle: Global Black Money Transactions Dataset](https://www.kaggle.com/datasets/waqi786/global-black-money-transactions-dataset)
     - synthetic data
 
 ## Tools
-- GCP Big Query, SQL, Power BI
+- GCP Big Query, SQL
 
 ## Tasks Performed
 - Created a Big Query table by importing a csv file
@@ -27,6 +27,7 @@ Analyze global money transactions for the period 2013-01-01 to 2014-02-01 to gai
 - Transaction Source of Money is Illegal by Industry
 - Transaction Source of Money is Illegal by Money Laundering Risk Score
 - What is the number of shell companies associated with transaction whose money source is illegal transactions?
+- Top origination country to destination country combinations
 
 ## Selected Queries
 
@@ -47,7 +48,8 @@ The level of transactions from illegal money sources remained consistent through
 <br></br>
 
 - Transaction Source of Money is Illegal by Destination Countries
-<img src="" height=350>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/Q5_Illegal_DestinationCtry.png" height=350>
+USA, India, and South Africa are the top 3 destination countries for money laundering transactions.
 <br></br>
   
 - Transaction Source of Money is Illegal by Tax Haven Country
@@ -61,4 +63,16 @@ Money laundering transactions were spread evenly across seven industries: Financ
 <br></br>
   
 - What is the number of shell companies associated with transaction whose money source is illegal transactions?
-  
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/Q12_Illegal_ShellCoInvolved.png" height=350>
+A money laundering transaction can have anywhere from 0 to 9 shell companies involved in a transaction.
+<br></br>
+
+## Findings
+- Brazil, South Africa, and China are the top 3 origination countries for money laundering transactions.
+- USA, India, and South Africa are the top 3 destination countries for money laundering transactions.
+- South Africa is in the top 5 for number of money laundering transactions, origination countries, and destination countries.
+- Switzerland & Singapore are a tax havens and destination countries for money laundering
+- Switzerland to the USA is the most popular money laundering transaction Origination To Destination combination.
+- Money laundering is concentrated in seven industries.
+- A money laundering transaction can involve as many as 9 shell companies.
+
