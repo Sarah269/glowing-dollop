@@ -12,7 +12,7 @@ Analyze global money transactions for the period 2013-01-01 to 2014-02-01 to gai
 
 ## Tasks Performed
 - Created a Big Query table by importing a csv file
-- Queried table to gain insights on illegal transactions
+- Queried table to gain insights on transactions whose source of money is illegal
 
 ## SQL Queries
 - What is the number of transactions in the table?
@@ -20,7 +20,7 @@ Analyze global money transactions for the period 2013-01-01 to 2014-02-01 to gai
 - Which countries have the most illegal transactions?
 - Breakdown of illegal transactions by Transaction Type
 - Destination Countries of illegal transactions
-- Breakdown of illegal transactions by Transaction Date
+- Breakdown of illegally sourced transactions by Transaction Date
 - Breakdown of illegal transactions by ReportedByAuthority
 - Breakdown of illegal transactions by Country
 - Breakdown of illegal transactions by Tax Haven Country
@@ -31,4 +31,10 @@ Analyze global money transactions for the period 2013-01-01 to 2014-02-01 to gai
 ## Selected Queries
 
 -  What is the source of money for the transactions?
--  
+
+  <img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/Q2_SourceOfMoney.png" height=300>
+The source of money for 70% of the transactions is illegal, 30% is legal.
+<br></br>
+
+- Breakdown of illegally sourced transactions by Transaction Type
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/Q4_Illegal_TransType.png" height=300>
