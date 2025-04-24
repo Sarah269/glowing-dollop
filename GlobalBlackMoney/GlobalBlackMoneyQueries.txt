@@ -1,0 +1,99 @@
+
+-- Q1. How many transactions are in this table?
+
+select count(*) as num_trans
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+
+-- Q2. What is the source of money for these transactions?
+
+select SourceOfMoney, count(*) as num_trans,
+count(*)/(select count(*) from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`) as perc_trans
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+group by SourceOfMoney
+
+-- Q3. Which countries have the most transactions where the source of money is illegal?
+
+select Country, sum(case when SourceOfMoney = 'Illegal' then 1 else 0 end) as MoneySrcIllegal_trans,
+round(sum(case when SourceOfMoney = 'Illegal' then Amount else 0 end),2) as Amount_USD,
+count(*) as total_trans, round(sum(Amount),2) as total_trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+group by Country
+
+
+
+-- Q4.Transaction Source Of Money is Illegal by Transaction Type
+
+select SourceOfMoney, TransactionType, round(avg(MLRiskScore),2) as Avg_MLRiskScore,  round(sum(Amount),2)  as total_trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, TransactionType
+order by 4 desc
+
+
+-- Q5.Transaction Source Of Money is Illegal by Destination Country
+
+select SourceOfMoney, DestinationCtry,  round(sum(Amount),2)  as total_trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, DestinationCtry
+order by 3 desc
+
+-- Q6.Transaction Source Of Money is Illegal by Transaction Date
+
+select SourceOfMoney, date_trunc(TransactionDT, MONTH) as TransDT, round(sum(Amount),2)  as total_trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, TransDt
+order by 2 
+
+-- Q7. Transaction Source of Money is Illegal by ReportedByAuthority
+
+select SourceOfMoney, ReportedByAuthority, round(sum(Amount),2) as trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, ReportedbyAuthority
+order by 3 desc 
+
+-- Q8. Transaction Source of Money is Illegal by Country
+
+select SourceOfMoney, Country, count(distinct FinancialInstitution) as num_fin_inst, count(*) as num_trans, round(sum(Amount),2) as trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, Country
+order by 4 desc 
+
+-- Q9. Transaction Source of Money is Illegal by Tax Haven Country
+
+select SourceOfMoney, TaxHavenCtry, count(*) as num_trans, round(sum(Amount),2) as trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, TaxHavenCtry
+order by 4 desc 
+
+-- Q10. -- Transaction Source of Money is Illegal by Industry
+
+select SourceOfMoney, Industry, count(*) as num_trans, round(sum(Amount),2) as trans_amt
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, Industry
+order by 4 desc
+
+-- Q11. Transaction Source of Money is Illegal By Money Laundering Risk Score
+
+select SourceOfMoney, Country, sum(case when MLRiskScore between 8 and 10 then 1 else 0 end) as MLRiskScoreHigh,
+sum(case when MLRiskScore between 5 and 7.9 then 1 else 0 end) as MLRiskScoreMedium,
+sum(case when MLRiskScore between 0 and 4.9 then 1 else 0 end) as MLRiskScoreLow,
+count(*) as total_trans
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, Country
+order by 6 desc 
+
+
+-- Q12. What is the number of shell companies involved with a transaction whose money source is illegal?
+
+select SourceOfMoney, ShellCompaniesInvolved as numShellCompaniesInvolved, count(*) as num_trans
+from `glass-standard-440403-s7.GCP_Fiin.BBM_AML`
+where SourceOfMoney = 'Illegal'
+group by SourceOfMoney, ShellCompaniesInvolved
+order by 2 
