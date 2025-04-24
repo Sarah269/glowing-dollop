@@ -67,6 +67,11 @@ Money laundering transactions were spread evenly across seven industries: Financ
 A money laundering transaction can have anywhere from 0 to 9 shell companies involved in a transaction.
 <br></br>
 
+- Top Origination to Destination combinations
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/Q13_Top_Five_OrigToDest.png" height=350>
+Switzerland to the USA is the most popular money laundering transaction Origination To Destination combination.
+<br></br>
+
 ## Findings
 - Brazil, South Africa, and China are the top 3 origination countries for money laundering transactions.
 - USA, India, and South Africa are the top 3 destination countries for money laundering transactions.
