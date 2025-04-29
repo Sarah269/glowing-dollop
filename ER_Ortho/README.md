@@ -3,7 +3,7 @@
 ## Project
 Analyze 2023 Emergency Room activity for Orthopedics
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/ER_Ortho/ER%20Ortho%20Dashboard.png" height=350>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/ER_Ortho/ER%20Ortho%20Dashboard.png" height=400>
 
 ## Reference
 DataFrenchy. Creating a Healthcare Analytics Dashboard in Excel
