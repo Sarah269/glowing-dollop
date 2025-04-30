@@ -31,4 +31,14 @@ Segment customers based on  recency (days since last purchase), frequency (purch
 - Dashboard
 - PowerPoint Slide
 
+## Findings
+- Average recency: 7 days
+- Average frequency: 160 times
+- Average monetary: $426,507
+- 10% of customers purchased while ago, bought rarely
+- 42% of customers purchased recently, bought frequently
+
+## Recommendation
+- Implement targeted marketing campaigns for Champions, Loyal, and At-risk customers.
+
   
