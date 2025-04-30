@@ -3,6 +3,12 @@
 ## Project
 Segment customers based on  recency (days since last purchase), frequency (purchase frequency), and monetary (total spend).
 
+<p float=left>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/CustSegRFM/CustSegRFM_dashboard.png" width="49%">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/CustSegRFM/CustSegRFM_PP.png" width="49%">
+</p>
+
+
 
 ## Data Source
 [Sales Data](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE1DMUtaRmZMODd0S0hPZE90QWNnN2hvYkd3Z3xBQ3Jtc0tuM0NZUDBhNXI1YTdLOEZsNl9aRlNMcnRsQ1JfRzFzNjhSYWNhVW9aajlUQnYwM3VwdktKTmI1TkJlbE8wSHlNa18teEZXZzlEMnM3X2RYbWM0WXhDNk5mUzhqZWVWeER0WWJrWHJ0M1Z2OWk3U18xRQ&q=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D1zXpZLlxvFVfiw3j73vnfTLDd1fouuPsM&v=9wxWrERZvss)
