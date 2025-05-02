@@ -13,7 +13,9 @@
 - [Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
 - [Video Game Reviews (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
 
-
+## Google BigQuery
+- [AML Transaction Analysis (Google BigQuery, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/GlobalBlackMoney)
+  
 ## Python
 - [Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
 - [National Gallery of Art (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
