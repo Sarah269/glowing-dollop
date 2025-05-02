@@ -1,0 +1,11 @@
+-- Create dashboard extract 
+
+SELECT *,
+  CONCAT( 
+    'Src:', SourceOfMoney, 
+    '|Shell:', if(ShellCompaniesInvolved > 0, 'yes','no'), 
+    '|TaxHaven:', IF(TaxHavenCtry IS NOT NULL, 'yes', 'no'), 
+    '|Reported:', if(ReportedByAuthority, 'yes', 'no') 
+  ) AS RiskPattern 
+  
+ FROM `glass-standard-440403-s7.GCP_Fiin.BBM_AML` 
