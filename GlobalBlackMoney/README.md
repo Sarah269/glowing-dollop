@@ -5,13 +5,16 @@ Analyze global money transactions for the period January 2013 to February 2014 t
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/BBM_AML_Dashboard.png" height=400>
 
-
 ## Data Source
 - [Kaggle: Global Black Money Transactions Dataset](https://www.kaggle.com/datasets/waqi786/global-black-money-transactions-dataset)
     - synthetic data
 
 ## Tools
 - GCP Big Query, SQL, Power BI
+
+## Reference
+- Essential Box plots in Power BI: Why and How to Create Them, DataBear.com
+- Box Plot in Power BI, DataTraining.io
 
 ## Tasks Performed
 - Created a Big Query table by importing a csv file
