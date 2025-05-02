@@ -3,16 +3,24 @@
 ## Project
 Analyze global money transactions for the period January 2013 to February 2014 to gain insights on the characteristics of money laundering transactions.
 
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/BBM_AML_Dashboard.png" height=400>
+
+
 ## Data Source
 - [Kaggle: Global Black Money Transactions Dataset](https://www.kaggle.com/datasets/waqi786/global-black-money-transactions-dataset)
     - synthetic data
 
 ## Tools
-- GCP Big Query, SQL
+- GCP Big Query, SQL, Power BI
 
 ## Tasks Performed
 - Created a Big Query table by importing a csv file
 - Queried table to gain insights on transactions whose source of money is illegal
+- Add a new column for risk patterns
+- Export modified dataset to a csv file
+- Imported csv file into Power BI
+- Created new measures in Power BI
+- Developed a Power BI dashboard
 
 ## SQL Queries
 - What is the number of transactions in the table?
