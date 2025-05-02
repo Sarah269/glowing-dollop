@@ -3,7 +3,7 @@
 ## Project
 Analyze global money transactions for the period January 2013 to February 2014 to gain insights on the characteristics of money laundering transactions.
 
-<img src="" height=400>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/BBM_AML_Dashboard.png" height=400>
 
 
 ## Data Source
