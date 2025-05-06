@@ -15,7 +15,7 @@ Airline Customer Sentiment Analysis, Rahul Sharma, IvyProSchool
 [Kaggle Airline Passenger Satisfaction](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHI4b0VoblNZZ0phcHVtYU92dmw0RkFJc3FpQXxBQ3Jtc0ttWVg2UHpqUU1RLTg2X0hYOG1JVVQ4ZUJxc0JtWkNnYUt6ZXVYclJaNHlWTmV4MFBBLWljOXBKc2Q3VWdHeWF1OTV4N2dSQ2Jadk9pZ2MySWJ2aS0yRVRUVE1WQWtZNFRLcFRnWDV6MW9sWWpFbVZZdw&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fteejmahal20%2Fairline-passenger-satisfaction)
 
 ## Tools
-Docker, Postgres, SQL, Excel
+Docker, Postgres, SQL, DBeaver, Excel
 
 ## Tasks Performed
 - Imported csv file into Excel
