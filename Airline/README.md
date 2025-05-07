@@ -4,7 +4,7 @@
 Sentiment Analysis of Airline Passenger Satisfaction 
 
 <p float=left>
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/Categorization%20Analysis.png" width="49%" height=300>
+<img src="" width="49%" height=300>
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/Survey%20Results.png" width="49%">
 </p>
 
@@ -31,10 +31,27 @@ Docker, Postgres, SQL, DBeaver, Excel
 - Visualized satisfaction survey results for the core customer group
 - Identified areas for improvement based on the survey results
 
-## Findings
-- 90.5% of passengers travelled in Business or Economy class
-- 91% of passengers travelling for personal reasons flew less than 2500kms
-- 81% of passengers travelling for business reasons flew less than 2500kms
-- 66% of passengers travelled for business reasons
+## Passenger Categorization
+- 66% of passengers flew < 2500kms, travelled in business or economy class, and are enrolled in the loyalty program
+- 93% of passengers travelled in Business or Economy class
+- 87% of passengers flew less than 2500kms (98% of personal travel, 81% of business travel)
 - 82% of passengers are enrolled in the loyalty program
-- 51% of passengers are above 39 years 
+- Average passenger age is 39 years old
+- Average distance travelled by passengers is 94kms
+- 51% of passengers were female, 49% were male
+
+## Areas for Improvements
+- Personal Travelers
+    - Online booking 
+- Business Travelers
+    - Departure & arrival time 
+- Economy Class
+    - Food & Beverage 
+    - In-flight entertainment 
+    - Cleanliness 
+-  Business Travelers traveling Economy Class
+    - Checkin Services  
+    - OnBoard Services  
+    - Inflight services
+    - Baggage Handling 
+
