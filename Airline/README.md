@@ -31,6 +31,21 @@ Docker, Postgres, SQL, DBeaver, Excel
 - Visualized satisfaction survey results for the core customer group
 - Identified areas for improvement based on the survey results
 
+
+## Airline Sentiment DDL
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/Test_csv_DDL.png" height=300>
+
+## Select Queries
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/RatingsByAllPassengers.png" height=300>
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/RatingsByPassengersGT39.png" height=300>
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/RatingsByTravelledLT2500kms.png" height=300>
+
+
+
 ## Passenger Categorization
 - 66% of passengers flew < 2500kms, travelled in business or economy class, and are enrolled in the loyalty program
 - 93% of passengers travelled in Business or Economy class
