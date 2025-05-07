@@ -1,0 +1,26 @@
+
+-- Target Customers 
+
+SELECT "CabinClass" "Seat_Class",
+"TypeOfTravel" "Business_Or_Personal_Travel",
+count(id) "NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+where "FlightDistance" < 2500
+and "CabinClass" in ('Business', 'Eco')
+and "CustomerType" = 'Loyalty program pax'
+group by "CabinClass", "TypeOfTravel";

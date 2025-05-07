@@ -1,0 +1,184 @@
+-- update CustomerType 
+update airline_sentiment
+set "CustomerType" = 'Loyalty program pax'
+where "CustomerType" = 'Loyal Customer";
+
+
+-- All Passenger Ratings
+
+SELECT "CabinClass" "Seat_Class", 
+"TypeOfTravel" "Purpose_of_Travel",
+"CustomerType" "Customer_Type",
+count(id) "NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+group by "CabinClass", "TypeOfTravel", "CustomerType"
+order by "TypeOfTravel", "CustomerType";
+
+-- Flight Distance between 0kms to 2499kms
+
+SELECT "CabinClass" "Seat_Class",
+"TypeOfTravel" "Business_Or_Personal_Travel",
+count(id) "NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+where "FlightDistance" < 2500
+group by "CabinClass", "TypeOfTravel";
+
+
+--Flight Distance between 2500kms to 5000kms
+
+SELECT "CabinClass" "Seat_Class",
+"TypeOfTravel" "Business_or_Personal_Travel",
+count(id) "NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+where "FlightDistance" between 2500 and 5000
+group by "CabinClass", "TypeOfTravel";
+
+
+
+
+-- Passenger feedback rating as per gender
+
+SELECT "CabinClass" "Seat_Class",
+"TypeOfTravel" "Business_or_Personal_Travel",
+"Gender",
+count(id)"NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+group by "CabinClass", "TypeOfTravel", "Gender";
+
+
+-- Ratings by Passengers LT 24 years old
+
+SELECT "CabinClass" "Seat_Class",
+"TypeOfTravel" "Business_Or_Personal_Travel",
+count(id) "NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+where "CustomerAge" < 24
+group by "CabinClass", "TypeOfTravel";
+
+
+-- Passenger ratings between age 24 and 39 years old
+
+SELECT "CabinClass" "Seat_Class",
+"TypeOfTravel" "Business_Or_Personal_Travel",
+count(id) "NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+where "CustomerAge" between 24 and 39
+group by "CabinClass", "TypeOfTravel";
+
+
+-- Passenger ratings GT 39 years old
+
+SELECT "CabinClass" "Seat_Class",
+"TypeOfTravel" "Business_Or_Personal_Travel",
+count(id) "NumOfPassengers",
+avg("FlightDistance") "Avg_Flight_Distance",
+avg("DepartArrivalTimeConvenient") "Depart_Arrival_Time_Rating",
+avg("EaseOfOnlineBooking") "Online_Booking_Rating",
+avg("GateLocation") "Gate_Location_Rating",
+avg("FoodAndDrink") "FnB_Rating",
+avg("SeatComfort") "Seat_Comfort_Rating",
+avg("InflightEntertainment") "IFE_Rating",
+avg("OnboardService") "OnBoard_Service_Rating",
+avg("LegRoomService") "LegRoom_Rating",
+avg("BaggageHandling") "Baggage_Handling_Rating",
+avg("CheckinService") "CheckIn_Service_Rating",
+avg("InflightService") "Inflight_Service_Rating",
+avg("Cleanliness") "Cleanliness_Rating",
+avg("DepartDelayMinutes") "Avg_Depart_Delay_Minutes",
+avg("ArrivalDelayMinutes") "Avg_Arrival_Delay_Minutes"
+from airline_sentiment
+where "CustomerAge" >39
+group by "CabinClass", "TypeOfTravel";
+
+
+
