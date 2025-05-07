@@ -4,7 +4,7 @@
 Sentiment Analysis of Airline Passenger Satisfaction 
 
 <p float=left>
-<img src="" width="49%" height=300>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/Categorization%20Analysis.png" width="49%" height=300>
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Airline/Survey%20Results.png" width="49%">
 </p>
 
