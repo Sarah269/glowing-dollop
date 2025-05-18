@@ -2,7 +2,7 @@
 
 <p>This project performs linear regression on a sci-kit learn dataset called Diabetes.  This dataset has 10 features and 442 observations.  The target is a measure of the progress of the disease one year after baseline.</p>
 
-![Regression Analysis](https://github.com/Sarah269/glowing-dollop/blob/main/Diabetes/Diabetes_R.pdf)
+[Regression Analysis](https://github.com/Sarah269/glowing-dollop/blob/main/Diabetes/Diabetes_R.pdf)
 
 ## Exploratory Data Analysis
 ### Feature Correlation
