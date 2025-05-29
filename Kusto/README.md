@@ -2,10 +2,11 @@
 
 
 ## Project
-Conduct exploratory data analysis on Microsoft Azure Logs database customEvents table using Kusto Query Language (KQL).  The customEvents table contains web events for an applications for the last 24 hours.
+Conduct exploratory data analysis on Microsoft Azure Logs database customEvents table using Kusto Query Language (KQL).  The customEvents table contains application custom web events for the last 24 hours.
 
 ## Data Source
 - Microsoft Azure Logs Activity
+- customEvents table
 
 ## Tools
 - Microsoft Azure, Kusto KQL
