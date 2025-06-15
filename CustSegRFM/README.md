@@ -20,6 +20,10 @@ Segment customers based on  recency (days since last purchase), frequency (purch
 * Essential Box Plots in Power BI, DataBear
 * Power BI Measure to calculate percentage which changes with filters, Stackoverflow
 
+
+## Tools
+- Python, Pandas, Seaborn, Plotly, Power BI, PowerPoint
+  
 ## Tasks Performed
 - Load dataset
 - Create Dataframe for RFM
