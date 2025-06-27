@@ -7,7 +7,7 @@ Create a metrics dashboard for Emergency Room activity for the period Apr 2022 -
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/EmergencyRoom/EmergencyRoom.png" height=400>
 
 ## Data
-DataFrency
+DataFrency: https://github.com/chrisfrenchjr/SQLQueries/blob/main/Orthopedic%20Dashboard.xlsx
 
 ## Tools
 - Excel Online (pivot tables), Power BI (DAX, Date table)
@@ -33,9 +33,11 @@ DataFrency
   - 26% of referred patients are referred to Orthopedica
   - 6% of referred patients are referred to Cardiology
 
-## Recommendations
+## Action
 -  Collect additional information to uncover what is driving the poor satisfaction scores
     - Expand satisfaction score survey to provide a little more information without discouraging completion
     - Find a way to increase satisfaction survey completion.  Survey on a mini tablet?
-    - What are the staffing numbers?  
+    - What are the staffing numbers?
+    - Are the facilities clean?
+    - Is the staff courteous?
   
