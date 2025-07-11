@@ -22,7 +22,11 @@ This project aims to analyze 110,527 medical appointment records from a Brazilia
 - Feature Engineering
 - Noshow Patient Data Visualization
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/PatientNoShow/DaysBetween.png" height=300>
+<p float=left>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/PatientNoShow/DaysBetween.png" width="49%">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/PatientNoShow/Age.png" width="49%">
+</p>
+
   
 - Split into Features and 
 - Address Imbalance between attended and no show appointments
