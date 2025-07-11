@@ -32,8 +32,9 @@ The objective of this project is to analyze customer churn at the bank by identi
 - Xgboost Model Predication with New Data
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/CustomerChurn/atrisk_1.png" height=300>
+<br>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/CustomerChurn/atrisk_2.png" height=300>
 
-</p>
   
 ## Characteristics of Exited Customers
 - 64% did not use the bank
