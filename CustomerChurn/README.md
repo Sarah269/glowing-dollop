@@ -20,15 +20,18 @@ The objective of this project is to analyze customer churn at the bank by identi
 - Load Dataset
 - Exploratory Data Analysis - Customers
 - Exploratory Data Analysis - Exited Customers
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/CustomerChurn/ExitedCust_1.png" height=300>
+  
 - Correlation
 - Split into Features & Target
 - Feature Engineering
 - Hyperparameter Optimization
 - Split into Train and Test
 - Xgboost Model
-- Xgboost Model Results
+- Xgboost Model Results: The model achieved 87% accuracy.
 - Xgboost Model Feature Importance
-- Xgboost Model Predication
+- Xgboost Model Predication using dataset data
 - Xgboost Model Predication with New Data
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/CustomerChurn/atrisk_1.png" height=300>
