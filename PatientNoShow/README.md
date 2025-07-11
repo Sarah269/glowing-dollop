@@ -3,6 +3,8 @@
 ## Project Objective
 This project aims to analyze 110,527 medical appointment records from a Brazilian healthcare facility to uncover behavioral and demographic factors associated with patient no-shows. Using these insights, the project develops a predictive model to estimate the likelihood of a patient missing an appointment. The model is designed to help the facility proactively identify at-risk patients and implement targeted interventions to reduce no-show rates and improve care delivery.
 
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/PatientNoShow/FeatureImportance.png" height=300>
+
 ## Reference
 - MLJourney, xgboost feature importance comprehensive guide
 
