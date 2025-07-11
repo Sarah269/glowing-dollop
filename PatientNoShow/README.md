@@ -27,6 +27,11 @@ This project aims to analyze 110,527 medical appointment records from a Brazilia
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/PatientNoShow/Age.png" width="49%">
 </p>
 
+<p float=left>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/PatientNoShow/Neighbourhood.png" width="49%">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/PatientNoShow/Gender.png" width="49%">
+</p>
+
   
 - Split into Features and 
 - Address Imbalance between attended and no show appointments
@@ -60,5 +65,5 @@ This project aims to analyze 110,527 medical appointment records from a Brazilia
 - Engage in additional research on why patients are missing appointments, ie. transportation, distance, work, childcare, finances, weather, appointment auto-scheduled, etc.
 - Are home visits an option for women with infants?
 - Can the medical facility provide a pickup service for patients?  
-- 
+
   
