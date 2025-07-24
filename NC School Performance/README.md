@@ -45,13 +45,13 @@ This project analyzes North Carolina school performance data to determine how we
      - Region 4 was the lowest performing region.
   - Achievement Scores:
      - Regions 3,6, & 8 charter schools did better with having achievement scores >= 85.
-     - Regions 6 and 2 has the highest number of high-achieving schools.
+     - Regions 6 and 8 had the highest percentage of high-achieving schools while regions 4 and 2 had the lowest percentage.
      - A small group of 111 schools had achievement scores greater than 84 (grade: A), 4.61%
      - Overall there was no significant difference between the scores for public and charter schools.
  - Student Growth Progress: 43% Met Expected Growth, 32% Exceed Expected Growth, 25% Did Not Meet Growth Targets.
 
 ### Recommendations
 - Revise teaching methods to reflect the learning styles of today's students.  Poor end-of-grade scores seems to indicate the students are not understanding the material.
-- Develop focused achievement plans for Regions 4 and 5.
+- Develop focused achievement plans for Regions 4 and 2.
   
   
