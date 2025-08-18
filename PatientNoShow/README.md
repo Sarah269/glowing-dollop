@@ -44,7 +44,7 @@ This project aims to analyze 110,527 medical appointment records from a Brazilia
 - 20% of scheduled appointments are missed.
 - Female patients account for 65% of noshows.  
 - Looking at age, infants have the highest amount of noshows.  The next age groups with high numbers for noshows are young adults (18 to 26) and adults in the mid-30s.  
-- Tuesday has the highest number of noshows follwed by Monday and Wednesday.  After Wednesday, there is a decrease in noshows for Thursday to Saturday.
+- Tuesday has the highest number of noshows followed by Monday and Wednesday.  After Wednesday, there is a decrease in noshows from Thursday to Saturday.
 - May has an unusally high number of missed appointments.
 - Patient medical conditions do not increase missed appointments.
 - Sending text messages does not decrease noshows.  43% of noshows received text messages.
