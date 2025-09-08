@@ -87,7 +87,7 @@ Switzerland to the USA is the most popular money laundering transaction Originat
 - Brazil, South Africa, and China are the top 3 origination countries for money laundering transactions.
 - USA, India, and South Africa are the top 3 destination countries for money laundering transactions.
 - South Africa is in the top 5 for number of money laundering transactions, origination countries, and destination countries.
-- Switzerland & Singapore are a tax havens and destination countries for money laundering
+- Switzerland & Singapore are tax havens and destination countries for money laundering.
 - Switzerland to the USA is the most popular money laundering transaction Origination To Destination combination.
 - Money laundering is concentrated in seven industries.
 - A money laundering transaction can involve as many as 9 shell companies.
