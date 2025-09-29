@@ -24,7 +24,7 @@ DataFrency: https://github.com/chrisfrenchjr/SQLQueries/blob/main/Orthopedic%20D
 - Satisfaction survey response: 27.31%
 - Highest patient load: 11pm - 1am
 - Average wait time: 35 minutes
-- Wait time is not impacted by patient volume
+- Patient volume did not correlate with Wait time.  Lower patient volume did not consistently produce a lower wait time.
 - Tuesday has the lowest average wait time
 - Friday has the highest average wait time and the highest average satisfaction score
 - Department referrals
@@ -34,10 +34,11 @@ DataFrency: https://github.com/chrisfrenchjr/SQLQueries/blob/main/Orthopedic%20D
   - 6% of referred patients are referred to Cardiology
 
 ## Action
--  Collect additional information to uncover what is driving the poor satisfaction scores
-    - Expand satisfaction score survey to provide a little more information without discouraging completion
-    - Find a way to increase satisfaction survey completion.  Survey on a mini tablet?
+-  Focused investigation on staffing and patient journey
     - What are the staffing numbers?
     - Are the facilities clean?
-    - Is the staff courteous?
+    - Are there enough seats in the waiting room?
+    - Are there enough beds in the emergency room?
+    - What are the referral wait times?
+      
   
