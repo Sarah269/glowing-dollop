@@ -3,13 +3,18 @@
 ## Project 
 This project builds a machine learning classification model to predict whether a patient is likely to get a stroke based on parameters like gender, age, glucose level, body mass, hypertension, and smoking. This datset has 5110 rows and 12 columns.
 
+Link to Gamma presentation: https://gamma.app/docs/ML-Driven-Stroke-Risk-System-dq8lh6uzcvygv4p
 
+<p float=left>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/2_Project-Summary-and-Clinical-Insights.png" width="49%">
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/3_Strategic-Implementation-Roadmap.png" width="49%">
+</p>
 
 ## Data Source
 [Kaggle healthcare-stroke data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 ## Tools
-Python, Pandas, sci-kit learn, PowerPoint
+Python, Pandas, sci-kit learn, PowerPoint, Gemini, Gamma
 
 ## Tasks Performed
 *  Data Cleaning
@@ -42,15 +47,7 @@ Age, BMI, and average glucose level were identified as the top features.
 
 ## Findings
 
-
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Slide.png" height="400" />
-
-- Age range for stroke patients is 40- 80
--  Average glucose level for stroke patients is above 100 with more activity above 150
-- BMI for stroke patients is 20- 60
--  Best parameters for SVM model: {‘C’: 100, ‘gamma’: 1}
--  The SVM model accuracy is 97%.
--  Based on model results the most important features are age, bmi, and average glucose. The  secondary features are gender, residence, work private, and never smoked.
 
  ## Limitations
  There is a great imbalance between the number of stroke and non-stroke target values. The data
