@@ -3,7 +3,7 @@
 ## Project 
 This project builds a machine learning classification model to predict whether a patient is likely to get a stroke based on parameters like gender, age, glucose level, body mass, hypertension, and smoking. This datset has 5110 rows and 12 columns.
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Slide.png" height="400" />
+
 
 ## Data Source
 [Kaggle healthcare-stroke data](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
@@ -41,6 +41,10 @@ Age, BMI, and average glucose level were identified as the top features.
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Important%20Features.png" height="400" />
 
 ## Findings
+
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Stroke/Stroke%20Slide.png" height="400" />
+
 - Age range for stroke patients is 40- 80
 -  Average glucose level for stroke patients is above 100 with more activity above 150
 - BMI for stroke patients is 20- 60
