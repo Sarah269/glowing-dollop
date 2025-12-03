@@ -3,6 +3,8 @@
 ## Project
 Analyze global money transactions for the period January 2013 to February 2014 to gain insights on the characteristics of money laundering transactions.
 
+The dashboard has data on illegal and legal sources of funds.
+
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/GlobalBlackMoney/BBM_AML_Dashboard.png" height=400>
 
 ## Data Source
@@ -25,7 +27,7 @@ Analyze global money transactions for the period January 2013 to February 2014 t
 - Created new measures in Power BI
 - Developed a Power BI dashboard
 
-## SQL Queries
+## SQL Queries focusing on illegal funds
 - What is the number of transactions in the table?
 - What is the source of money for the transactions?
 - Which countries have the most illegal transactions?
@@ -83,12 +85,27 @@ A money laundering transaction can have anywhere from 0 to 9 shell companies inv
 Switzerland to the USA is the most popular money laundering transaction Origination To Destination combination.
 <br></br>
 
-## Findings
+## Findings - Illegal Funds
 - Brazil, South Africa, and China are the top 3 origination countries for money laundering transactions.
 - USA, India, and South Africa are the top 3 destination countries for money laundering transactions.
-- South Africa is in the top 5 for number of money laundering transactions, origination countries, and destination countries.
-- Switzerland & Singapore are tax havens and destination countries for money laundering.
-- Switzerland to the USA is the most popular money laundering transaction Origination To Destination combination.
+- South Africa is in the top 5 for number of money laundering transactions, origination countries, and destination countries.  Could indicate a trade-loop or regional hub for illicit finance.
+- Switzerland & Singapore are tax havens and destination countries.
+- Switzerland to the USA is the most popular Origination To Destination combination for illegal
+
+## Findings - Overall
+- China to the USA is the most popular Origination To Destionation combination
+- 10.2% of transactions are high-risk
+- Avg risk score of 6/10 is high
+- 20% of transactions were flagged by Authority
+- 89% of transactions involved shell companies
 - Money laundering is concentrated in seven industries.
 - A money laundering transaction can involve as many as 9 shell companies.
+- The high percentage of transactions involving shell companies and the high number of shell companies involved in a transaction suggests complex layering is the primary method being used to obscure the Beneficial Ownership of the funds.  
 
+## Actions
+- Prioritize resources to focus on the high-risk transactions for deeper due diligence and Suspicious Activity Report filing.
+- Review all authority-flagged transactions
+- Scrutinize all transactions involving shell companies especially those using 9 shell entities.
+- Transactions in the Switerzerland to USA corridor should be subject to Enhanced Due Diligence (EDD). High-risk.
+- Monitor the China to USA corridor for volume anomalies and potentieal trade-based money laundering.
+- Destinate South Africa as a key focus country.
