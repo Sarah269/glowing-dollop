@@ -1,7 +1,7 @@
 # Emissions
 
 ## Project Overview
-This project looks at 2023 Emissions data for the United States to determine where are the locations of high emissions.  Thirty-one hundred records were analyzed in Databricks using SQL.  
+This project looks at 2023 Greenhouse Gas Emissions data for the United States to determine where are the locations of high emissions.  Thirty-one hundred records were analyzed in Databricks using SQL.  
 
 <p float=left>
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/Emissions%20for%20Lower%2048%20States.png" width="49%">
@@ -24,7 +24,7 @@ This project looks at 2023 Emissions data for the United States to determine whe
 
 ## Queries
 
-### What are the total CO2 emissions for the United States?
+### What are the total greenhouse gas emissions for the United States?
 
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/query_Total_Emissions.png" height=400>
 
@@ -34,7 +34,7 @@ This project looks at 2023 Emissions data for the United States to determine whe
 
 ### What is the average emission level for a county?
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/query_avg_cty_emissions.png" height=400>
+<img src="" height=400>
 
 ### What is the lowest emission level for a county?
 
@@ -42,7 +42,15 @@ This project looks at 2023 Emissions data for the United States to determine whe
 
 ### What are the top 10 states for emissions?
 
-<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/Top%2010%20States%20for%20Emissions.png" height=400>
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/query_emission_top10_state.png" height=400>
+
+
+## Insights
+- Total emissions for the United States: 562,457,107 mtons CO2
+- Average emissions per county: 179,012 mtons CO2
+- Greenhouse Gas emissions are concentrated in the Eastern portion of the United States (midwest and east)
+- Ten states account for 51% of greenhouse gas emissions in the United States
+- The county that produces the most greenhouse gases is not in a top 10 state:  Maricopa, AZ.
 
 
 
