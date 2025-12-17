@@ -24,6 +24,27 @@ This project looks at 2023 Emissions data for the United States to determine whe
 
 ## Queries
 
+### What are the total CO2 emissions for the United States?
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/query_Total_Emissions.png" height=400>
+
 ###  What is the highest emission level for a county?
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/query_Highest_County_Emissions.png" height=400>
+
+### What is the average emission level for a county?
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/query_avg_cty_emissions.png" height=400>
+
+### What is the lowest emission level for a county?
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/query_lowest_cty_emissions.png" height=400>
+
+### What are the top 10 states for emissions?
+
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/Top%2010%20States%20for%20Emissions.png" height=400>
+
+
+
 
 
