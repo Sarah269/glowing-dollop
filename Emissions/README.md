@@ -13,6 +13,8 @@ This project looks at 2023 Greenhouse Gas Emissions data for the United States t
 <img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/Top%2010%20States%20for%20Emissions.png" width="49%">
 </p>
 
+<img src="https://github.com/Sarah269/glowing-dollop/blob/main/Emissions/Which%20states%20have%20the%20highest%20per%20capita%20emissions_.png" height=400>
+
 ## Data
 - Emissions 2023 (3142 rows, 29 columns)
 
