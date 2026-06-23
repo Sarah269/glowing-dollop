@@ -13,6 +13,7 @@ The dashboard has data on illegal and legal sources of funds.
 
 ## Tools
 - GCP Big Query, SQL, Power BI
+- ChatGPT:  dashboard design
 
 ## Reference
 - Essential Box plots in Power BI: Why and How to Create Them, DataBear.com
